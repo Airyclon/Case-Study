@@ -1,0 +1,32 @@
+img{
+    width: 150px;
+    height: 150;
+}
+
+.b{
+    background-color: rgb(240, 255, 255);
+    padding: 30px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px grey;
+    width: 75%;
+    height: 50%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(163, 195, 255);
+    line-height: 3;
+    text-align: center;
+  }
+
+  h4{
+      background-color: rgb(245, 229, 245);
+  }
+
+  #q{
+      color: rgb(0, 59, 53);
+  }
